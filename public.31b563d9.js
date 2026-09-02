@@ -25030,9 +25030,9 @@ const App = ()=>{
     _s();
     const pageSize = 6;
     // Assigning your 3 keys
-    const apiKeyGlobal = "6755e742c9724a2489d5038f7a10baa1";
-    const apiKeyUs = "b27a2aff2edc4c33935e41b142442351";
-    const apiKeyIn = "pub_1eee914340b8468b907f0308afb49080";
+    const apiKeyGlobal = "";
+    const apiKeyUs = "";
+    const apiKeyIn = "";
     const [apiType, setApiType] = (0, _react.useState)("global"); // Default to Global Everything
     const [progress, setProgress] = (0, _react.useState)(0);
     const [searchQuery, setSearchQuery] = (0, _react.useState)("");
