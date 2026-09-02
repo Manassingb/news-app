@@ -8,9 +8,9 @@ This project now reads API keys directly in the React app from `config.js`. No P
 
 ```js
 window.NEWS_APP_CONFIG = {
-  newsApiGlobalKey: "YOUR_NEWSAPI_KEY",
-  newsApiUsKey: "YOUR_NEWSAPI_KEY",
-  newsDataIndiaKey: "YOUR_NEWSDATA_KEY"
+  newsApiGlobalKey: "c5ff0d8507894f38b29b1bdb8c31233e",
+  newsApiUsKey: "c5ff0d8507894f38b29b1bdb8c31233e",
+  newsDataIndiaKey: "pub_2af7ef35b41a4f8fbe6df1980ebabd23",
 };
 ```
 
